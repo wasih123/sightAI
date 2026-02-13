@@ -26,4 +26,4 @@ This application is built in Python using Streamlit and leverages YOLO models fr
    ```
    This should provide a link or open a webpage where you can interact with the app for detection and tracking.
 
-For any feedbacks or question, please drop an e-mail at - fazbal05@gmail.com
+For any feedbacks or question, please drop an e-mail at - wasih.mohd@gmail.com
